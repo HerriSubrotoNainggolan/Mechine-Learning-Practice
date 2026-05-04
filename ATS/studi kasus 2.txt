@@ -1,0 +1,5 @@
+Adit, pemilik sebuah perusahaan XYZ, ingin meningkatkan efisiensi proses rekrutmen dan pengelolaan SDM. Selama ini, penentuan gaji untuk calon karyawan masih dilakukan secara subjektif, yang berisiko menimbulkan ketimpangan dan ketidakadilan. Oleh karena itu, Adit dan tim HR ingin membangun sistem berbasis data untuk memprediksi gaji karyawan baru secara lebih objektif dan adil.
+
+Dataset historis yang dimiliki perusahaan berisi informasi mengenai usia karyawan, lama bekerja, status karyawan (pria/wanita), dan departemen tempat bekerja, serta gaji bulanan yang diterima yang bisa dilihat di dataset_karyawan_missing.csv. 
+
+Bantulah Adit untuk menyelesaikan masalahnya.
